@@ -1,5 +1,5 @@
 
-# Bookshop Management System
+# C++ - Bookshop Management System
 
 This C++ application is a Bookshop Management System designed to help manage book inventory, and user registrationss. The system provides various functionalities including viewing bookshop details, user registration, login, password recovery, book management (adding, updating), generating bills with discounts, logging out, and exiting the system.
 
